@@ -1,2 +1,2 @@
-# Primary-Supply-Store-Consulting
-This is the repository of the Consulting Project made for a Primary Supply Independent Store in Mexico City and also the project was presented as final project for the Data Quality Course of the Data Science Bachelor.
+# Raw-Materials-Store-Consulting
+This is the repository of the Consulting Project made for a Primary Supply Independent Store in Mexico City and also the project was presented as final project for the Data Quality Course of the Data Science Bachelor. For this project, the team made a consulting project for a candy and raw materials business (located in Mexico City) with our expertise and necessary tools in the field of data quality. The aim is for the business to better leverage its resources and benefit from its data, such as sales. The purpose of the project is to generate value with the data to increase revenue and improve decision-making within the business.
